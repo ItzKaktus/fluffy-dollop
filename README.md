@@ -1,2 +1,2 @@
 # fluffy-dollop
-POSIX sh script to use dd 
+GNU Bash script to use dd 
